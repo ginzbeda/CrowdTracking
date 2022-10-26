@@ -1,0 +1,6 @@
+"id","inventory_type","RFID_session","RFID_power","antennas","readers"
+1,"autonomous","S1",30,"Advantenna-SP11","AdvanReader-150"
+2,"autonomous","S2",30,"Advantenna-SP11","AdvanReader-150"
+3,"autonomous","S2",30,"Advantenna-SP11","AdvanReader-150"
+4,"autonomous","S1",30,"Advantenna-SP11","AdvanReader-150"
+5,"manual","S1",30,"Advantenna-SP11","AdvanReader-150"
